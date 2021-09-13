@@ -21,7 +21,7 @@ const Caption = (props) => {
     return ( 
         <div className="caption">
         {props.activeCaption ? <h1 style={styles.title} className={props.darkMode ? "caption-header caption-header--darkmode" : "caption-header"}>Uff </h1> : <h1 className={props.darkMode ? "caption-header caption-header--darkmode" : "caption-header"}>Uff</h1>}
-        {props.activeCaption ?  <p style={styles.text} className="caption-header__text">fajnie, że tu jesteś, bo nie ma powrotu <span role="img" aria-label="emoji">🙊</span></p> : <p className="caption-header__text">fajnie, że tu jesteś, bo nie ma powrotu<span role="img" aria-label="emoji">🙊</span></p>}
+        {props.activeCaption ?  <p style={styles.text} className="caption-header__text">Tutaj dowiesz się czegoś o mnie<span role="img" aria-label="emoji">🙊</span></p> : <p className="caption-header__text">Tutaj dowiesz się czegoś o mnie<span role="img" aria-label="emoji">🙊</span></p>}
     </div>
      );
 }
