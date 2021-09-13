@@ -23,7 +23,6 @@ $ft-small: 18px;
 .slide{
     border: 1px solid black;
     height: 410px;
-    // width: 80%;
     background: rgba( 255, 255, 255, 0.55 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 13px );
@@ -38,16 +37,18 @@ $ft-small: 18px;
         text-align: center;
         padding-top: 6px;
         font-size: $ft-base-mobile;
-        // &--tech{
-        //     margin-top: -10px;
-        // }
+
     }
     &__content{
         font-size: $ft-small-mobile;
         text-align: center;
         padding: 10px 6px;
     }
-
+}
+@media (max-width: 768px) {
+    .slide{
+        width: 80%;
+    }
 }
 @media (min-width: 768px) {
     .slide__title--tech{
@@ -66,7 +67,11 @@ img{
     display: flex;
     justify-content: space-around;
 }
-
+@media (min-width: 768px) {
+    .images{
+        padding: 20px 0px;
+    }
+}
 .link{
     text-decoration: none;
     color: black;
