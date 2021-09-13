@@ -1,0 +1,23 @@
+{
+  "main.css": "/ShortWebsite/static/css/main.e2e36fdd.chunk.css",
+  "main.js": "/ShortWebsite/static/js/main.002528a0.chunk.js",
+  "main.js.map": "/ShortWebsite/static/js/main.002528a0.chunk.js.map",
+  "runtime~main.js": "/ShortWebsite/static/js/runtime~main.2a66a91e.js",
+  "runtime~main.js.map": "/ShortWebsite/static/js/runtime~main.2a66a91e.js.map",
+  "static/css/2.4121947d.chunk.css": "/ShortWebsite/static/css/2.4121947d.chunk.css",
+  "static/js/2.ea3d9b5f.chunk.js": "/ShortWebsite/static/js/2.ea3d9b5f.chunk.js",
+  "static/js/2.ea3d9b5f.chunk.js.map": "/ShortWebsite/static/js/2.ea3d9b5f.chunk.js.map",
+  "index.html": "/ShortWebsite/index.html",
+  "precache-manifest.08b0ea7eaec82c295f5d0db04a3293dd.js": "/ShortWebsite/precache-manifest.08b0ea7eaec82c295f5d0db04a3293dd.js",
+  "service-worker.js": "/ShortWebsite/service-worker.js",
+  "static/css/2.4121947d.chunk.css.map": "/ShortWebsite/static/css/2.4121947d.chunk.css.map",
+  "static/css/main.e2e36fdd.chunk.css.map": "/ShortWebsite/static/css/main.e2e36fdd.chunk.css.map",
+  "static/media/css-3.svg": "/ShortWebsite/static/media/css-3.2db97d69.svg",
+  "static/media/github.svg": "/ShortWebsite/static/media/github.1f33e75d.svg",
+  "static/media/html-5.svg": "/ShortWebsite/static/media/html-5.7334348a.svg",
+  "static/media/icons8-vue-js.svg": "/ShortWebsite/static/media/icons8-vue-js.b00020dd.svg",
+  "static/media/instagram.svg": "/ShortWebsite/static/media/instagram.5b23a837.svg",
+  "static/media/javascript.svg": "/ShortWebsite/static/media/javascript.e169ba29.svg",
+  "static/media/react.png": "/ShortWebsite/static/media/react.f297dfcd.png",
+  "static/media/sass.svg": "/ShortWebsite/static/media/sass.3023657d.svg"
+}
