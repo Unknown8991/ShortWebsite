@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "12481a56e7689d7d746f",
-    "url": "/ShortWebsite/static/css/main.d93c9ac5.chunk.css"
+    "revision": "249bbbcae1eb094055f3",
+    "url": "/ShortWebsite/static/css/main.c1e3ee16.chunk.css"
   },
   {
-    "revision": "12481a56e7689d7d746f",
+    "revision": "249bbbcae1eb094055f3",
     "url": "/ShortWebsite/static/js/main.002528a0.chunk.js"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ShortWebsite/static/media/instagram.5b23a837.svg"
   },
   {
-    "revision": "b50726a518a7b62cc782d06515b9c5a7",
+    "revision": "6ba9f02693addea422cf99e9cb0a7526",
     "url": "/ShortWebsite/index.html"
   }
 ];
