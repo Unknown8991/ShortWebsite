@@ -1,0 +1,36 @@
+$ft-large: 130px;
+$ft-large-mobile: 100px;
+$ft-base-mobile: 24px;
+$ft-small-mobile: 14px;
+$ft-base: 30px;
+$ft-small: 18px;
+
+
+*{
+  font-family: 'Montserrat', sans-serif;
+  // overflow-x: hidden ;
+}
+html{
+  --scroll-behavior: smooth;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image:linear-gradient( to top left,#5FC9EB , #1A7DFF  );
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  scroll-behavior: smooth;
+  overflow-y: hidden;
+  -webkit-overflow: hidden;
+  -ms-touch-action: none;
+  touch-action: none;
+  -moz-backface-visibility: hidden
+}
+
+
+

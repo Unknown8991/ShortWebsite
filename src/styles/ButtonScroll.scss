@@ -1,0 +1,34 @@
+$ft-large: 130px;
+$ft-large-mobile: 100px;
+$ft-base-mobile: 24px;
+$ft-small-mobile: 14px;
+$ft-base: 30px;
+$ft-small: 18px;
+
+.button-position{
+    display: flex;
+    justify-content: center;
+    margin-top: 600px;
+}
+.button-scroll a{
+    text-decoration: none;
+    color: white;
+}
+.button-scroll a:hover{
+    color: white;
+}
+.button-scroll{
+    font-size: $ft-base-mobile + 20px;
+    background: rgba( 255, 255, 255, 0.4 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 50px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    color: white;
+}
+@media (min-width: 768px) {
+    .button-position{
+        margin-top: 800px;
+    }
+}

@@ -1,0 +1,28 @@
+$ft-large: 200px;
+$ft-large-mobile: 100px;
+$ft-base-mobile: 24px;
+$ft-small-mobile: 14px;
+$ft-base: 30px;
+$ft-small: 18px;
+
+.header-text{
+    font-weight:500;
+    margin-top: 120px;
+    font-size: $ft-large-mobile;
+
+}
+@media (max-width: 320px) {
+    .header-text{
+        font-weight:500;
+        margin-top: 120px;
+        font-size: $ft-large-mobile - 10px;
+    
+    }
+}
+@media (min-width: 768px){
+    .header-text{
+        font-size: $ft-large;
+        margin-top: 80px;
+    }
+}
+

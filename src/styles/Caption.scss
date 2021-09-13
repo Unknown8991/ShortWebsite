@@ -1,0 +1,30 @@
+$ft-large: 130px;
+$ft-large-mobile: 100px;
+$ft-base-mobile: 24px;
+$ft-small-mobile: 14px;
+$ft-base: 30px;
+$ft-small: 18px;
+
+.caption-header{
+    padding-top: 800px;
+    text-align: center;
+    font-size: $ft-large;
+    background-image: linear-gradient(45deg, #4c1dce, #329c09);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    &--darkmode{
+        background-image: linear-gradient(180deg, #1dce52, #093c9c);
+    }
+    &__text{
+        font-size: $ft-base-mobile;
+        padding-left: 20px;
+        text-align: center;
+    }
+}
+@media (min-width: 768px) {
+    .caption-header{
+        padding-top: 900px;
+    }
+}
+
